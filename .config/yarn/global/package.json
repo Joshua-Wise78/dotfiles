@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@quick-start/create-electron": "^1.0.28"
+  }
+}

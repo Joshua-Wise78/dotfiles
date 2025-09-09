@@ -1,0 +1,13 @@
+auto-update = download
+
+theme = kanagawa-wave 
+
+font-size=16
+font-family = JetBrainsMono Nerd Font
+
+background-opacity = .7
+
+window-padding-x = 10 
+window-padding-y = 10
+
+macos-titlebar-style = hidden
