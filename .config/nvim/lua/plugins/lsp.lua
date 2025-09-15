@@ -19,6 +19,8 @@ return {
 					"cssls",
 					"rust_analyzer",
 					"pyright",
+					"eslint",
+					"emmet_ls",
 				},
 				handlers = {
 					function(server_name)

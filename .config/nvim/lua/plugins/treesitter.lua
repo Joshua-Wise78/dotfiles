@@ -15,6 +15,8 @@ return {
 				"rust",
 				"json",
 				"python",
+				"typescript",
+				"tsx",
 			},
 
 			sync_install = true,
