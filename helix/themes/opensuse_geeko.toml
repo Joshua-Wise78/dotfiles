@@ -1,0 +1,40 @@
+# openSUSE Geeko Theme for Helix
+# Blends into your transparent terminal background
+
+"ui.background" = "transparent"
+"ui.text" = "#eeeeee"
+"ui.cursor" = { fg = "#171a17", bg = "#73ba25" }
+"ui.cursor.primary" = { fg = "#171a17", bg = "#8ae234" }
+"ui.cursor.match" = { fg = "#73ba25", modifiers = ["bold"] }
+
+"ui.selection" = { bg = "#2e3436" }
+"ui.selection.primary" = { bg = "#555753" }
+
+"ui.linenr" = { fg = "#555753" }
+"ui.linenr.selected" = { fg = "#8ae234", modifiers = ["bold"] }
+
+"ui.statusline" = { fg = "#171a17", bg = "#73ba25" }
+"ui.statusline.inactive" = { fg = "#d3d7cf", bg = "#2e3436" }
+"ui.statusline.normal" = { fg = "#171a17", bg = "#73ba25", modifiers = ["bold"] }
+"ui.statusline.insert" = { fg = "#171a17", bg = "#34e2e2", modifiers = ["bold"] }
+"ui.statusline.select" = { fg = "#171a17", bg = "#ad7fa8", modifiers = ["bold"] }
+
+"ui.popup" = { bg = "#2e3436" }
+"ui.window" = { fg = "#555753" }
+"ui.help" = { bg = "#2e3436", fg = "#eeeeee" }
+
+"ui.virtual.ruler" = { bg = "#2e3436" }
+
+# Syntax Highlighting
+"comment" = { fg = "#555753", modifiers = ["italic"] }
+"keyword" = "#73ba25" # openSUSE Green
+"keyword.control" = "#8ae234"
+"function" = "#729fcf" # Blue
+"variable" = "#eeeeee"
+"variable.parameter" = "#34e2e2" # Cyan
+"constant" = "#ad7fa8" # Magenta
+"constant.numeric" = "#fce94f" # Yellow
+"string" = "#c4a000"
+"type" = "#34e2e2"
+"operator" = "#d3d7cf"
+"punctuation" = "#d3d7cf"
